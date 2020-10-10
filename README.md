@@ -35,7 +35,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 👨🏽‍💻 I’m currently loving working at [Openly](https://openly.com/);
 - 🌱 My current side project is [Momentum](https://momentumtradingjournal.com);
-- 🐙 Former dev bootcamp instructor at [Code Fellows](https://www.codefellows.org/);
+- 🐙 Former bootcamp instructor at [Code Fellows](https://www.codefellows.org/);
 - 👯 I’m looking to help more junior developers 🤝 ;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Currently creating a Golang course 🤩 ;
