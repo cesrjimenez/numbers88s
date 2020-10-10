@@ -33,7 +33,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 <img width="45%" align="right" alt="Github" src="./assets/FE_vs_BE.png" />
 
-- 👨🏽‍💻 I’m currently loving working at [Openly]([https://www.](https://openly.com/));
+- 👨🏽‍💻 I’m currently loving working at [Openly](https://openly.com/);
 - 🌱 My current side project is [Momentum](https://momentumtradingjournal.com);
 - 🐙 Former dev bootcamp instructor at [Code Fellows](https://www.codefellows.org/);
 - 👯 I’m looking to help more junior developers 🤝 ;
