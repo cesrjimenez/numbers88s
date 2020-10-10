@@ -77,4 +77,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
 </p>
 <br />
-[![HitCount](http://hits.dwyl.com/Numbers88s/Numbers88s/numbers88s.svg)](http://hits.dwyl.com/Numbers88s/Numbers88s/numbers88s)
+<p align="left">
+  <img alt="ViewCount" src="https://hits.dwyl.com/Numbers88s/Numbers88s/numbers88s.svg)](http://hits.dwyl.com/Numbers88s/Numbers88s/numbers88s" />
+</p>
