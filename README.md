@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Your title -->
-## I'm Cesar Jimenez, a Fullstack Developer 🚀 from Seattle, WA.
+## I'm Cesar Jimenez, a Fullstack Developer 🚀
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
